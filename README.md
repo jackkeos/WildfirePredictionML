@@ -18,7 +18,7 @@ This notebook builds upon the packages mentioned in Notebook 1 and includes:
 - Scikit-Learn
 - XGBoost
 
-### Notebook 3: "deeplearning"
+### Notebook 3: "deeplearning.ipynb"
 This notebook utilizes all the previously mentioned packages as well as TensorFlow and Keras, implemented in a separate Conda environment.
 
 ## Data
@@ -31,4 +31,4 @@ I would like to express my gratitude to my instructors at BrainStation and my fe
 
 ## Contact Information
 
-You can connect with me on LinkedIn [here] (https://www.linkedin.com/in/jack-keoseyan/).
+You can connect with me on LinkedIn [here](https://www.linkedin.com/in/jack-keoseyan/).
